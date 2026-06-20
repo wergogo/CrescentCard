@@ -17,7 +17,7 @@ The game contains the following card types:
 - **Element** (22 cards) — Point-scoring cards placed in the Element Zone.
 - **Strike** (18 cards) — Combat cards placed in the Strike Zone. May trigger Awaken.
 - **Support** (18 cards) — Utility cards placed in the Support Zone.
-- **Spell** (20 cards) — Effect cards that resolve immediately, then enter the discard pile.
+- **Spell** (20 cards) — Effect cards that resolve immediately, then enter the Graveyard.
 - **Hero** — Each player selects one Hero to represent them for the game.
 - **Divine Boon** — Special cards granted by mythological patrons. Set aside at the start of the game.
 - **Awakened** — Powerful cards that replace a complete Strike Series upon Awakening. Set aside at the start of the game.
@@ -55,7 +55,7 @@ Each game consists of up to 3 rounds. Within each round, players alternate takin
 
 - There is **no hand size limit**.
 - Your Hero's energy has a **maximum of 10** and a **minimum of 0**. If an effect would reduce your energy below 0, it remains at 0.
-- When a round ends, all cards on the field are sent to their respective owners' discard piles.
+- When a round ends, all cards on the field are sent to their respective owners' Graveyards.
 
 ## 5. The Market
 
@@ -90,19 +90,19 @@ Each player's field is divided into the following zones:
 | **Support Zone** | Where Support cards are placed. Each Support card has a fixed Power of **5**. |
 | **Hero Zone** | Where your chosen Hero is placed. |
 
-Spell cards are not placed on the field; they resolve immediately upon being played and are then sent to the discard pile. Divine Boon cards function similarly to Spell cards but are **not** considered Spell cards (see [Section 10](#10-divine-boon-rules)).
+Spell cards are not placed on the field; they resolve immediately upon being played and are then sent to the Graveyard. Divine Boon cards function similarly to Spell cards but are **not** considered Spell cards (see [Section 10](#10-divine-boon-rules)).
 
 ## 9. Keyword Reference
 
 | Keyword | Definition |
 |---|---|
-| **Awaken** | When you control 3 cards of the same Strike Series in your Strike Zone, send all 3 (including any Enchanted cards such as Moonward) to your discard pile and place the corresponding Awakened card in your Strike Zone. Then resolve the Awakened card's Awaken effect. Each Series may Awaken at most twice per round. |
+| **Awaken** | When you control 3 cards of the same Strike Series in your Strike Zone, send all 3 (including any Enchanted cards such as Moonward) to your Graveyard and place the corresponding Awakened card in your Strike Zone. Then resolve the Awakened card's Awaken effect. Each Series may Awaken at most twice per round. |
 | **Surge X** | When you play a card with Surge, you may choose to pay X energy to trigger the Surge effect. If you do not have enough energy, the Surge effect cannot be activated. |
 | **Scry X** | Look at the top X cards of your deck. You may place them on the top or bottom of your deck in any order. |
 | **Shroud** | A card with Shroud cannot be destroyed, moved, or returned to hand. It is not considered the highest or lowest Power card for targeting purposes. Enchanting a Shrouded card and returning it to the field are not affected. |
-| **Vanish** | When this card would be sent to the discard pile, exile it (remove it from the game) instead. A card with Vanish cannot be returned to hand. |
+| **Vanish** | When this card would be sent to the Graveyard, exile it (remove it from the game) instead. A card with Vanish cannot be returned to hand. |
 | **Enchant** | Play this card attached to another card. A card may only be Enchanted once at a time. (Twinspell is played simultaneously with its target and does not consume your play for the turn. Moonward does consume your play.) |
-| **Destroy** | Send the targeted card to its owner's discard pile. |
+| **Destroy** | Send the targeted card to its owner's Graveyard. |
 | **Return** | Move a card from the field back to its owner's hand. |
 | **Move** | Transfer a card from one player's field to the other player's corresponding zone. |
 | **Choose one** | Select one of the listed options to resolve. (If Luna is in play on your side, resolve all options instead.) |
@@ -124,7 +124,7 @@ Spell cards are not placed on the field; they resolve immediately upon being pla
 - A single-target Move effect cannot target Twinspell alone. If you Move the Enchanted card, Twinspell moves with it. This forced movement does **not** apply to single-target Destroy or Return effects.
 - The Enchanted card's Surge effect requires a separate Surge decision for each resolution.
 - Twinspell is played simultaneously with its target and does **not** consume your play for the turn.
-- When Twinspell enters the discard pile, it is treated as a Spell card.
+- When Twinspell enters the Graveyard, it is treated as a Spell card.
 
 ## 12. Additional Card Rulings
 
@@ -138,13 +138,13 @@ When Triplecast or Twinspell is played, it may trigger Lilia's Hero ability. On 
 
 ### 12.3 Prismatic Pudding
 
-When Prismatic Pudding enters the field, you must declare which Element Series it belongs to (Sprite or Crystal). Whenever it is moved, returned to hand, or placed onto the field from the discard pile, you may re-declare its Series.
+When Prismatic Pudding enters the field, you must declare which Element Series it belongs to (Sprite or Crystal). Whenever it is moved, returned to hand, or placed onto the field from the Graveyard, you may re-declare its Series.
 
 ## 13. Hero-Specific Rulings
 
 ### 13.1 Riffbreaker
 
-When a round ends and Element cards are sent to the discard pile, this does **not** trigger Riffbreaker's ability. However, during each of your opponent's turns after you have passed, Riffbreaker's ability may still trigger.
+When a round ends and Element cards are sent to the Graveyard, this does **not** trigger Riffbreaker's ability. However, during each of your opponent's turns after you have passed, Riffbreaker's ability may still trigger.
 
 ### 13.2 Shortcake
 
