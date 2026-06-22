@@ -43,7 +43,7 @@ Shuffle all 78 main deck cards and distribute as follows:
 | Personal deck (per player) | 14 cards |
 | Market (shared) | 26 cards |
 
-Place all Hero cards face-down. Players alternate drafting Heroes, selecting 2 each. After viewing their starting hand, each player chooses 1 Hero as their representative for the game. Place the chosen Hero in the Hero Zone with energy set to the Hero's starting value.
+Place 2 Hero cards face-up with others face-down. Players alternate drafting Heroes, selecting 1 each until each player holds 3 hero cards. After viewing their starting hand, each player chooses 1 Hero as their representative for the game. Place the chosen Hero in the Hero Zone with energy set to the Hero's starting value.
 
 ## 4. Game Flow
 
