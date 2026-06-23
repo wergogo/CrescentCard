@@ -83,7 +83,7 @@ Each player's field is divided into the following zones:
 | **Support Zone** | Where Support cards are placed. Each Support card has a fixed Power of **5**. |
 | **Hero Zone** | Where your chosen Hero is placed. |
 
-Spell cards are not placed on the field; they resolve immediately upon being played and are then sent to the Graveyard. Boon cards function similarly to Spell cards but are **not** considered Spell cards (see [Section 10](#10-boon-rules)).
+Spell cards are not placed on the field; they resolve immediately upon being played and are then sent to the Graveyard. Boon cards function similarly to Spell cards but are **not** considered Spell cards (see [Section 10](#10-boon-rules).
 
 ## 9. Keyword Reference
 
