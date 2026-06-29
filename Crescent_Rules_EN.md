@@ -129,6 +129,7 @@ Hush's timing window occurs **before** a Spell card resolves, including before a
 ### 12.2 Triplecast and Twinspell
 
 When Triplecast or Twinspell is played, it may trigger Lilia's Hero ability. On the 2nd and 3rd resolution (Triplecast), a separate Surge decision is required each time. However, repeated resolutions do **not** re-trigger Lilia's ability. (Repeated resolution is not considered a new play.)
+Each resolution is considered independent of each other: the first resolution must be completed before the second one can happen. For example, the market would be refilled to 4 cards after a resolution before the second one happens.
 
 ### 12.3 Prismatic Pudding
 
@@ -139,10 +140,11 @@ When Prismatic Pudding enters the field, you must declare which Element Series i
 ### 13.1 Riffbreaker
 
 When a round ends and Element cards are sent to the Graveyard, this does **not** trigger Riffbreaker's ability. However, during each of your opponent's turns after you have passed, Riffbreaker's ability may still trigger.
+When Hush is destroyed due to nullifying your opponent's spell in their turn, it will trigger Riffbreaker's ability.
 
 ### 13.2 Zephyrus
 
-Zephyrus's ability triggers whenever Zephyrus's controller is the first to pass in any round, as long as the overall game has not yet concluded. This includes scenarios where the player has no remaining hand cards after Round 2.
+Zephyrus's ability triggers whenever Zephyrus is the first to pass in any round, as long as the overall game has not yet concluded. This includes scenarios where the player has no remaining hand cards after Round 2.
 
 ### 13.3 Xin Zhai 
 
